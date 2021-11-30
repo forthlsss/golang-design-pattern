@@ -2,4 +2,4 @@
 
 原repo <https://github.com/ssbandjl/golang-design-pattern>
 
-代码注释
+笔记C代码注释
